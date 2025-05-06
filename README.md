@@ -6,7 +6,7 @@ This repo hosts the *original 2017 self-published version* of **UTOPAI**
 —a speculative-philosophy novel that explores  
 
 * **Post-AGI loss of agency**  
-* **The connectionist brain and how it understands the world**  
+* **The connectionist brain and how it understands our world**  
 * **How cognition shapes political economy and society**  
 * **A universe modeled as a neural network**
 
@@ -25,3 +25,5 @@ Licensed under **Creative Commons Attribution-ShareAlike 4.0 International (CC-B
 Reuse, quote, or adapt freely—just link back here.
 
 *Author: RAJMOHAN [linkedin](https://www.linkedin.com/in/rajmohanh/)*  
+
+
