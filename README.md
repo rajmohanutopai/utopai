@@ -26,4 +26,7 @@ Reuse, quote, or adapt freely—just link back here.
 
 *Author: RAJMOHAN [linkedin](https://www.linkedin.com/in/rajmohanh/)*  
 
+[![DOI](https://zenodo.org/badge/978772644.svg)](https://doi.org/10.5281/zenodo.15350750)
+
+
 
