@@ -1,13 +1,25 @@
 # UTOPAI (2017 edition) — Open-Access Archive
+[![License: CC BY-SA 4.0](https://img.shields.io/badge/License-CC%20BY--SA%204.0-lightgrey.svg)](LICENSE)
+
 
 This repo hosts the *original 2017 self-published version* of **UTOPAI**  
-— a speculative-philosophy novel exploring post-AGI apathy, the
-recursive narrative brain, agency-engineered societies, and a
-quantum-graph model of reality.
+—a speculative-philosophy novel that explores  
 
-📖 **Read the book** → [UTOPAI_2017_full.pdf](UTOPAI_2017_full.pdf)  
-📰 **4-season article series** → *coming soon on Substack*  
-🎧 **Podcast feed** → *coming soon*  
+* **Post-AGI loss of agency**  
+* **The connectionist brain and how it understands the world**  
+* **How cognition shapes political economy and society**  
+* **A universe modeled as a neural network**
+
+## Quick links
+| What | Link |
+|------|------|
+| 📖 **Full PDF** | [UTOPAI_2017_full.pdf](UTOPAI_2017_full.pdf)  | 
+| 📰 **Slides** | *coming soon* |
+| 📰 **4-season Substack hub** | *coming soon* |
+| 🎧 **Podcast feed** | *coming soon* |
+| 📖 **Graphic Novel** | *coming soon* |
+
+
 
 Licensed under **Creative Commons Attribution-ShareAlike 4.0 International (CC-BY-SA-4.0)**.
 Reuse, quote, or adapt freely—just link back here.
