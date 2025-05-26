@@ -15,9 +15,6 @@ This repo hosts the *original 2017 self-published version* of **UTOPAI**
 |------|------|
 | 📖 **Full PDF** | [UTOPAI_2017_full.pdf](UTOPAI_2017_full.pdf)  | 
 | 📰 **Slides** | *coming soon* |
-| 📰 **4-season Substack hub** | *coming soon* |
-| 🎧 **Podcast feed** | *coming soon* |
-| 📖 **Graphic Novel** | *coming soon* |
 
 
 
